@@ -12,7 +12,6 @@
 /* Game panel. */
 #up-next-game {
 	font-size: 60pt;
-    /* font-stretch: semi-condensed; */
     width: 1452px;
     line-height: 72px;
     position: absolute;
@@ -39,13 +38,6 @@
 	padding-right: 10px;
 	
 	border: 2px solid transparent;	
-}
-
-/* Runner name dynamic text. */
-#up-next-info {
-	/* max-width: 494px; */
-	
-	/* border: 2px solid transparent;	 */
 }
 
 /* Info panel options. Don't change unless you know what you're doing! */
